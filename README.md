@@ -42,10 +42,10 @@
 
 | 项目 | 简介 | 奖项 |
 | --- | --- | --- |
-| [🧭 **LearnFlow**](https://github.com/Jingmo35/LearnFlow) | 把学习主题变成可执行知识地图的 AI 学习智能体 | 🥈 阶跃星辰 Agent Builder 深圳站 二等奖 |
+| [🧭 **LearnFlow**](https://github.com/Jingmo35/LearnFlow) | 把学习主题变成可执行知识地图的 AI 学习智能体 | 🥈 Agent Builder 深圳站 二等奖 |
 | [🎬 **Momentime 漫时光**](https://github.com/Jingmo35/Momentime) | 照片/日记一键生成 AI 漫画日记与「爽文短剧」 | 🥉 抖音创变者计划 东莞站 三等奖 |
 | [🎧 **SoundTrace 声迹**](https://github.com/Jingmo35/SoundTrace) | 厨房音效听觉记忆解压小游戏 | 🥈 抖音创变者计划 中大深圳站 二等奖 |
-| [🎮 **FaceControlLife 脸控人生**](https://github.com/Jingmo35/FaceControlLife) | 摄像头脸控的荒诞人生模拟器（solo 10h） | 🎲 黑客松作品 |
+| [🎮 **FaceControlLife 脸控人生**](https://github.com/Jingmo35/FaceControlLife) | 摄像头脸控的荒诞人生模拟器 | 🎲 黑客松作品 |
 
 ---
 
