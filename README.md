@@ -62,16 +62,6 @@
 
 ---
 
-### 🐍 贡献贪吃蛇
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/Jingmo35/Jingmo35/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 <div align="center">
 
 🌸 *用 ❤️ 做项目，乐于和有意思的人链接* 🌸
