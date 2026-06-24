@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- 顶部横幅 -->
-# 嗨，我是马靖怡 (Jingyi Ma) 👋🌸
+# 嗨，我是Jingyi Ma 👋🌸
 
-### 🤖 Agent 开发 / 算法　·　🎓 中山大学通信工程硕士在读　·　🏆 黑客松选手
+### 🤖 Agent 开发 / 算法　·　🎓 中山大学硕士在读　·　🏆 黑客松选手
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Jingmo35&label=Profile%20views&color=ff8fb3&style=flat" alt="profile views" />
@@ -17,7 +17,6 @@
 
 ### 🌸 关于我
 
-- 🎓 **东北大学**通信工程本科（成绩 2/117，前 1.7%）→ 推免保研 **中山大学**通信工程硕士
 - 🤖 专注 **Agent 开发与算法**，热爱黑客松，享受从 0 到 1 把 AI 想法做成产品
 - 🔬 科研方向：无人机辅助移动边缘计算（1 篇 SCI + 会议论文 + 多项专利）
 - 🤝 **正在找志同道合的比赛队友** —— 欢迎发 issue 或邮件来组队 / 交流！
