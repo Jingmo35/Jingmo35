@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- 顶部横幅 -->
-# 嗨，我是Jingmo 👋🌸
+# Hi，我是Jingmo 👋🌸
 
-### 🤖 Agent 开发 / 算法　·　🎓 中山大学硕士在读　·　🏆 黑客松选手
+### 🤖 Agent 开发 / 算法　·　·　🏆 黑客松选手
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Jingmo35&label=Profile%20views&color=ff8fb3&style=flat" alt="profile views" />
-<a href="mailto:jingyima1128@gmail.com"><img src="https://img.shields.io/badge/Email-jingyima1128@gmail.com-ff6fa5?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:majingyi0305@qq.com"><img src="https://img.shields.io/badge/Email-jingyima1128@gmail.com-ff6fa5?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://jingmo35.github.io"><img src="https://img.shields.io/badge/个人主页-Homepage-b3a0ff?style=flat&logo=githubpages&logoColor=white" /></a>
 </p>
 
