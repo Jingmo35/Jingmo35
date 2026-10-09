@@ -44,7 +44,7 @@
 | --- | --- | --- |
 | [🧭 **LearnFlow**](https://github.com/Jingmo35/LearnFlow) | 把学习主题变成可执行知识地图的 AI 学习智能体 | 🥈 Agent Builder 深圳站 二等奖 |
 | [🎬 **Momentime 漫时光**](https://github.com/Jingmo35/Momentime) | 照片/日记一键生成 AI 漫画日记与「爽文短剧」 | 🥉 抖音创变者计划 东莞站 三等奖 |
-| [🎧 **SoundTrace 声迹**](https://github.com/Jingmo35/SoundTrace) | 厨房音效听觉记忆解压小游戏 | 🥈 抖音创变者计划 中大深圳站 二等奖 |
+| [🎧 **SoundTrace 声迹**](https://github.com/Jingmo35/SoundTrace) | 厨房音效听觉记忆解压小游戏 | 🥈 抖音创变者计划 互动空间全国三十强 |
 | [🎮 **FaceControlLife 脸控人生**](https://github.com/Jingmo35/FaceControlLife) | 摄像头脸控的荒诞人生模拟器 | 🎲 黑客松作品 |
 | [🥁 **入戏潮汕 RuxiChaoshan**](https://github.com/Jingmo35/RuxiChaoshan) | 以英歌情为文化锚点，AI 串联普宁路线、识肉品茶与专属文创 | 🎲 普宁黑客松作品 |
 
